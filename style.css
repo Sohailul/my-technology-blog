@@ -1,0 +1,42 @@
+.navbar{
+    padding: 10px;
+    background-color: orange;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+
+.navbar ul li{
+    padding: 15px;
+    display: inline;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.blog{
+    background-color: darkseagreen;
+    margin: 15px auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 20px solid yellow;
+    border-radius: 5px;
+    width:50%;
+}
+
+.blog .author-name{
+    color: firebrick;
+    font-weight: bold;
+}
+.blog h2{
+    color: rgb(250, 249, 243);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blog p{
+    font-weight: bold;
+}
